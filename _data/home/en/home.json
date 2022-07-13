@@ -1,0 +1,88 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "h1": "Free Online  Adjustments Tools - Safeimagekit",
+  "h2": "No files are sent to server. 100% safe.",
+  "TITLE": "Free Online Adjustments Tools - Safeimagekit",
+  "META": "Free and Easy to use online image effects. Try the  effect.",
+  "keywords": "",
+  "features": [
+    {
+      "name": "Adjust Brightness",
+      "description": "You can freely adjust image brightness an unlimited number of times",
+      "color": "#6666ff",
+      "icon": "/img/home/brightness.svg",
+      "url": "/adjust/image-brightness"
+    },
+    {
+      "name": "Adjust Blur",
+      "description": "Free online tool for adjusting image blur",
+      "color": "#ad81ee",
+      "icon": "/img/home/blur.svg",
+      "url": "/adjust/image-blur"
+    },
+    {
+      "name": "Adjust Contrast",
+      "description": "Adjust image contrast using a simple and free online tool",
+      "color": "#ff6666",
+      "icon": "/img/home/contrast.png",
+      "url": "/adjust/image-contrast"
+    },
+    {
+      "name": "Adjust Grayscale",
+      "description": "A simple and free online tool for converting an image to grayscale",
+      "color": "#33cccc",
+      "icon": "/img/home/adjust.png",
+      "url": "/adjust/image-grayscale"
+    },
+    {
+      "name": "Adjust Invert",
+      "description": "Free online tool for quickly reversing the colours of your images.",
+      "color": "#ff9966",
+      "icon": "/img/home/invert.png",
+      "url": "/adjust/image-invert"
+    },
+    {
+      "name": "Adjust Saturate",
+      "description": "Adjust Image Saturate according to your need!",
+      "color": "#6666ff",
+      "icon": "/img/home/saturate.png",
+      "url": "/adjust/image-saturate"
+    },
+    {
+      "name": "Adjust Sepia",
+      "description": "Adjust image saturate is the best tool to saturate the colors of your image",
+      "color": "orange",
+      "icon": "/img/home/sepia.png",
+      "url": "/adjust/image-sepia"
+    },
+    {
+      "name": "Adjust Hue Rotate",
+      "description": "Free online advanced tool for adjust image hue rotate.",
+      "color": "#0566D1",
+      "icon": "/img/home/adjust.png",
+      "url": "/adjust/image-hue-rotate"
+    },
+    {
+      "name": "Flip Image Horizontally",
+      "description": "To flip your image horizontally, use the vertical horizontally image tool",
+      "color": "#276a2f",
+      "icon": "/img/home/flip-horizontal.png",
+      "url": "/adjust/flip-image-horizontally"
+    },
+    {
+      "name": "Flip Image Vertically",
+      "description": "To flip your image vertically, use the vertical flip image tool",
+      "color": "#66b3ff",
+      "icon": "/img/home/flip.png",
+      "url": "/adjust/flip-image-vertically"
+    },
+    {
+      "name": "Mirror image effect",
+      "description": "To mirror an image online,use this best mirror image effect online tool",
+      "color": "#D92B2B",
+      "icon": "/img/home/mirror.png",
+      "url": "/adjust/mirror-image-effect"
+    }
+  ]
+}
